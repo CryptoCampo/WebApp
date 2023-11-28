@@ -49,6 +49,12 @@
         <div class="campaignBuy" :style="!isWalletConnected ? 'filter: blur(3px) opacity(0.7)' : ''">
           <!-- ConnectWallet message -->
 
+             <!-- Start SOLD OUT message campaign 2 -->
+                  <div class="campaignSoldOut" v-show="true">
+                    <div style="font-weight: 400; font-size: 100px"><span> SOLD OUT</span></div>
+                  </div>
+                  <!-- End SOLD OUT message -->
+                  
           <!-- Removed the verification of the wallet to replace it with the SOLD OUT message at all times no matter if logged in or not -->
           <div class="container-nft-campaing row container p-0 m-0 log-in-first" :style="isWalletConnected ? 'pointer-events: all; user-select: all;' : ''">
             <div class="col-12 col-lg-4 container-img-cryptocampo">
