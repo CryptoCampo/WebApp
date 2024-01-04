@@ -37,9 +37,63 @@
             <h2 class="accordion-header" id="flush-heading-1">
               <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
-                FASE 1 (NOV 2023)
+                FASE 1 (DIC 2023)
               </button>
             </h2>
+            <div id="collapse-1" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-1">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <b class="h4 h3-green">PREPARACIÓN DE LA PRODUCCIÓN DE CANNABIS MEDICINAL:</b>
+                            <div class="textos mb-3">
+                              Durante el mes de Noviembre 2023 se realizó la fase inicial del cultivo, mediante la 
+                              cual se da lugar a la etapa de germinado de las semillas y crecimiento de plántulas. 
+                              Dichos procesos se dan en invernaderos aptos para tal estadío, los cuales cumplen con 
+                              lo requerido para lograr una germinación óptima: oscuridad, hidratación y humedad.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              Una vez que las plántulas crecen y alcanzan los 2 o 3 nudos de altura (10-14 días aproximadamente),
+                               estas se transforman en plantines, los cuales son adaptados a campo abierto y luego trasplantados 
+                               para dar inicio a la fase de crecimiento y desarrollo vegetativo.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              A partir del mes de Diciembre, los plantines empezaron a ser trasplantados a campo abierto, 
+                              iniciando la fase de colonización de raíces en sustrato (desarrollo de raíces), fijación y adaptación 
+                              al suelo y al entorno. El cultivo llevado a cabo es del tipo orgánico, dando lugar a la preservación de 
+                              todas las propiedades de la planta y el fruto final, resaltando aromas, pigmentos y propiedades organolépticas.
+                               Se observa un crecimiento parejo y vigoroso, buen follaje y suelo con buenas propiedades. <br />
+                            </div>
+                            <b class="h4 h3-green">✅ Las genéticas seleccionadas son: <br/>
+                            <ul>
+                                <li>Fedtonic </li> 
+                                <li>HQ x HQ</li>
+                            </ul>
+                             </b><br/>
+                            <div class="textos mb-3">
+                              Todas con procedencia de banco suizo. La elección de semillas se basa en la experiencia y criterio previo 
+                              de los productores, siendo las mismas las más solicitadas a nivel internacional. Ambas cuentan con alta carga 
+                              de CBD, alcanzando picos de 24%, son sumamente resistentes a plagas y patógenos externos y tienen una alta 
+                              capacidad de generar resina y terpenos.<br />
+                            </div>
+                            <div class="h3 h3-green">
+                              Panorama agroclimático mensual en Uruguay:
+                            </div>
+                            <div class="textos mb-3">
+                              <b>Mes: Diciembre<br/> Temperaturas: mínimas de 15°C y máximas de hasta 31°C.</b><img class="mb-3 rounded imgSize"
+                                src="../assets/img/weatherSunshine.jpg" /><br />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 d-flex flex-column">
+                            <img class="my-3 rounded" src="../assets/img/campaign2-phase1-1.jpg" />
+                            <img class="mb-3 rounded" src="../assets/img/campaign2-phase1-2.jpg" />
+                            <button type="button"
+                              class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
+                                icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
             <div id="collapse-1" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
               data-bs-parent="#step-1">
               <div class="accordion-body">
