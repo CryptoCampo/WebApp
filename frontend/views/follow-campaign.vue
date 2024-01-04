@@ -57,6 +57,7 @@
                                estas se transforman en plantines, los cuales son adaptados a campo abierto y luego trasplantados 
                                para dar inicio a la fase de crecimiento y desarrollo vegetativo.<br />
                             </div>
+                            <b class="h4 h3-green">TRASPLANTE A CAMPO ABIERTO:</b>
                             <div class="textos mb-3">
                               A partir del mes de Diciembre, los plantines empezaron a ser trasplantados a campo abierto, 
                               iniciando la fase de colonización de raíces en sustrato (desarrollo de raíces), fijación y adaptación 
