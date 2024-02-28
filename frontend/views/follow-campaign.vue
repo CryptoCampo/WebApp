@@ -94,15 +94,95 @@
                           </div>
                         </div>
                       </div>
-                    </div>
-            <div id="collapse-1" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
-              data-bs-parent="#step-1">
-              <div class="accordion-body">
-                <div class="row container-preparation-stage">
+                    </div>           
+          </div>
+             <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading-1">
+              <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                FASE 2 (ENE - FEB 2024)
+              </button>
+            </h2>
+            <div id="collapse-2" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-2">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <b class="h4 h3-green">I.TRASPLANTE EXITOSO EN CAMPO EXTERIOR:</b>
+                            <div class="textos mb-3">
+                              A partir del mes de Diciembre 2023, los plantines empezaron a ser trasplantados a campo abierto, 
+                              iniciando la fase de colonización de raíces en sustrato (desarrollo de raíces), fijación y adaptación 
+                              al suelo y al entorno. El mismo resultó exitoso para las plantas, toda vez que puede observarse 
+                              actualmente un crecimiento en alto y ancho, como, asi también, han desarrollado follaje y nuevos brotes.<br />
+                            </div>
+                            <b class="h4 h3-green">II.DESARROLLO DEL CULTIVO:</b>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">a. Fase Vegetativa Avanzada - Enero:</b> <br/>
+                              En enero, las plantas se encontraban en una fase vegetativa avanzada, 
+                              mostrando una morfología robusta con tallos y ramas resistentes, hojas 
+                              anchas y carnosas de un verde oscuro intenso.<br />
 
-                </div>
-              </div>
-            </div>
+                              La estructura de las mismas es del tipo arbusto abeto, caracterizándose 
+                              por un crecimiento más pronunciado en diámetro que en altura y un tallo 
+                              central ancho, típico de las variedades con predominancia Indica, ricas en CBD.<br />
+
+                              Tal como van a poder observar en las fotos que se acompañan al informe, la 
+                              uniformidad en el crecimiento y el color parejo de las hojas indican una alimentación 
+                              óptima a través de fertirriego orgánico, sin excesos ni deficiencias.<br />
+
+                              No se observaron ataques de plagas ni patógenos, gracias a una correcta aplicación foliar preventiva.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">b. Transición y Floración:</b> <br/>
+                               Luego del trasplante en tierra, las plantas completaron su último estiramiento en la fase de 
+                               pre-floración, dando paso al desarrollo de cogollos densos y ricos en resina en los meses subsiguientes.<br />
+
+                              Este estadío marcó la transición del crecimiento vegetativo hacia una floración activa, caracterizada 
+                              por cogollos grandes con pistilos blancos, indicando un desarrollo y engorde continuos.<br />
+
+                              La salud óptima de las plantas se mantuvo, evidenciada por la ausencia de excesos y/o carencias nutricionales, 
+                              sumado a la continua prevención de plagas y enfermedades por parte del equipo productivo de Uruguay.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">c. Desarrollo de los Cogollos:</b> <br/>
+                               El desarrollo de los cogollos nos indica un estado activo de crecimiento y engorde. Este es un precursor 
+                               de la fase avanzada de floración, donde se estabilizan para comenzar el ciclo de maduración de terpenos.<br />
+                            </div>
+                            <b class="h4 h3-green">III.SALUD Y MANEJO DEL CULTIVO:</b>
+                            <div class="textos mb-3">
+                              La implementación de prácticas de manejo adecuadas, incluyendo la aplicación de foliar preventiva y la 
+                              colocación de tutores para soportar el peso de los frutos, ha sido fundamental para mantener la salud y 
+                              la integridad de las plantas. <br />
+                            </div>
+                             <div class="textos mb-3">
+                              La disposición espacial que puede observarse en el trasplante realizado en campo exterior 
+                              (distancia entre plantas) ha prevenido eficazmente la formación de bolsas de humedad, lo cual resulta 
+                              crucial para el mantenimiento de un ambiente óptimo para el cultivo. <br />
+                            </div>
+                            <b class="h4 h3-green">IV.PROYECCIONES:</b>
+                            <div class="textos mb-3">
+                             Desde enero hasta la actualidad hemos observado un progreso notable en cada fase del ciclo de crecimiento 
+                             de nuestras plantas de cannabis (CBD) en todas sus genéticas. <br />
+                            </div>
+                             <div class="textos mb-3">
+                              La transición exitosa a través de cada una de estas fases refleja la eficacia de las prácticas de cultivo 
+                              y manejo de nuestros productores, así como nuestro compromiso con la producción sostenible y de alta calidad.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              En CryptoCampo seguimos dedicados a optimizar cada una de las etapas, con el fin de asegurar la excelencia y 
+                              el liderazgo en la industria del cannabis de alta calidad.<br />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 d-flex flex-column">
+                            <img class="my-3 rounded" src="../assets/img/campaign2-phase2-1.jpg" />
+                            <img class="mb-3 rounded" src="../assets/img/campaign2-phase2-2.jpg" />
+                            <button type="button"
+                              class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
+                                icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
           </div>
         </div>
       </div>
