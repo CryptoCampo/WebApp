@@ -96,7 +96,7 @@
                       </div>
                     </div>           
           </div>
-             <div class="accordion-item">
+          <div class="accordion-item">
             <h2 class="accordion-header" id="flush-heading-1">
               <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
@@ -176,6 +176,74 @@
                           <div class="col-12 col-sm-5 d-flex flex-column">
                             <img class="my-3 rounded" src="../assets/img/campaign2-phase2-1.jpg" />
                             <img class="mb-3 rounded" src="../assets/img/campaign2-phase2-2.jpg" />
+                            <button type="button"
+                              class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
+                                icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+          </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading-1">
+              <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                FASE 3 (MARZO - ABRIL 2024)
+              </button>
+            </h2>
+            <div id="collapse-3" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-3">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <div class="textos mb-3">
+                              El proceso de cultivo de CBD en exterior consta de varias etapas clave, cada una crucial para garantizar 
+                              la calidad y el rendimiento óptimo del producto final.<br />
+                              En los meses anteriores transitamos del crecimiento de las plántulas a la fase Vegetativa, la cual marca el 
+                              crecimiento sustancial de las plantas.<br />
+                              Es esta etapa, pasamos de plántulas a plantines adaptados a las condiciones﻿ exteriores. Durante aproximadamente 
+                              45 días, las plantas desarrollaron una estructura frondosa tipo arbusto abeto, lo que sentó las bases para una 
+                              cosecha abundante y de alta calidad que actualmente estamos llevando adelante.<br />
+                            </div>
+                            <b class="h4 h3-green">MARZO: FASE DE FLORA AVANZADA EN CAMPO EXTERIOR:</b>
+                            <div class="textos mb-3">
+                              Durante la fase de pre-floración, que marca la transición entre la fase vegetativa avanzada y el inicio del período 
+                              de floración, hemos presenciado un crecimiento notable en nuestras plantas de cannabis medicinal.<br />
+                              Al centrar sus energías en el desarrollo, producción, engorde y maduración de los frutos (cogollos/flores), observamos 
+                              ejemplares que superan los dos metros de altura. Los mismos se caracterizan por sus flores densas y resinosas, con terpenos 
+                              muy definidos, aromas marcados y una pigmentación distintiva.<br />
+                              Se destaca además el perfil organoléptico, típico de nuestros cultivos orgánicos, que añade un valor adicional a la producción 
+                              actual.<br />
+                              Otro aspecto a resaltar es el punto del corte en cuanto a maduración de los tricomas, la pigmentación final obtenida en los cogollos, 
+                              densidad y capa de resina.<br />
+                              Esto mismo se puede ver en la imagen debajo, la cual fue tomada en los campos de Sauce (Uruguay).<br />
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">FINES DE MARZO - ABRIL: COSECHA</b> <br/>
+                               A partir de fines del mes de marzo se comenzó con la cosecha entre los diversos campos, especialmente en Sauce, donde se encuentra 
+                               la mayor parte de la producción de cannabis medicinal.<br />
+                               Con el objetivo de optimizar el proceso, hemos implementado cosechas escalonadas y un método de cosecha parcial y seccionado. 
+                               Este enfoque nos permite manejar eficientemente el volumen y el espacio en las cámaras de secado, así como abordar la variabilidad en el nivel 
+                               de maduración de las plantas. Específicamente, la presencia de ejemplares conocidos como "Monster Plants" ha requerido una atención especial, 
+                               dado su rápido crecimiento durante las primeras semanas de cambio de foto período.<br />
+                               Las genéticas que actualmente están siendo cosechadas y sometidas al tratamiento post cosecha incluyen las variedades Ultra Pink, Fenocheese y 
+                               Fedtonic.<br />
+                               Estamos entusiasmados con los resultados obtenidos hasta el momento y esperamos compartir más detalles sobre el proceso de post cosecha en 
+                               nuestro próximo informe.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">PROYECCIONES:</b> <br/>
+                               La producción de CBD del período de marzo-abril de 2024 ha sido altamente positiva, destacando tanto el éxito en la fase de flora avanzada como 
+                               en el proceso de cosecha en curso.<br />
+                               Durante el mes de abril vamos a seguir cosechando de forma escalonada, respetanto los tiempos de la planta, cuidando y controlando la humedad a 
+                               fin de obtener producto de alta calidad para exportar al mundo.<br /><br />
+                               <b>En CryptoCampo, seguimos dedicados a optimizar cada una de las etapas, con el fin de asegurar la excelencia y el liderazgo en la industria del 
+                               cannabis de alta calidad.</b>><br />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 d-flex flex-column">
+                            <img class="my-3 rounded" src="../assets/img/campaign2-phase3-1.jpg" />
+                            <img class="mb-3 rounded" src="../assets/img/campaign2-phase3-2.jpg" />
                             <button type="button"
                               class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
                                 icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
