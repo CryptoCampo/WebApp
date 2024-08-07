@@ -252,6 +252,75 @@
                       </div>
                     </div>
           </div>
+           <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading-1">
+              <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                FASE 4 (MAYO - JUNIO 2024)
+              </button>
+            </h2>
+            <div id="collapse-4" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-4">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <div class="textos mb-3">
+                              Durante los meses de mayo y junio de 2024, en CryptoCampo centramos nuestros esfuerzos 
+                              en la cosecha de las plantas de cannabis medicinal (CBD), siguiendo un proceso meticuloso 
+                              que garantiza la calidad y el rendimiento óptimo del producto final. Estos meses marcan 
+                              el punto culminante de la temporada de cultivo, las cuales se desarrollaron desde 
+                              noviembre-diciembre 2023 hasta el mes abril del corriente.<br />
+                            </div>
+                            <b class="h4 h3-green">MAYO Y JUNIO: COSECHA Y POSTCOSECHA</b><br /><br />
+                            <b class="h4 h3-green">PROGRESO DEL CULTIVO</b>
+                            <div class="textos mb-3">
+                              En los meses previos, hemos observado un crecimiento significativo en nuestras plantas de CBD, 
+                              que alcanzaron una altura superior a 1.70 metros y mostraron un desarrollo notable de flores 
+                              densas y resinosas. El perfil organoléptico, típico de nuestros cultivos orgánicos, ha añadido 
+                              un valor adicional a la producción actual​​​​.<br />
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">PROCESO DE COSECHA</b> <br/>
+                               La cosecha se inició a finales de marzo y continuó de manera escalonada durante abril y mayo, 
+                               especialmente en nuestros campos de Sauce, donde se concentra la mayor parte de nuestra producción​​. 
+                               Este enfoque escalonado nos ha permitido manejar eficientemente el volumen y el espacio en las cámaras 
+                               de secado, así como abordar la variabilidad en el nivel de maduración de las plantas​​​​.<br /><br />
+
+                              🟢Cosecha Escalonada: Implementamos una estrategia de cosecha parcial y seccionada para asegurar 
+                              que las plantas alcancen el punto óptimo de maduración​​.<br /><br />
+
+                              🟢Selección de Variedades: Las genéticas cosechadas durante este periodo incluyen Ultra Pink, Fenocheese 
+                              y Fedtonic, conocidas por su alta calidad y resistencia​​​​.
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">RESULTADOS DE LA COSECHA</b> <br/>
+                               La producción de CBD ha sido altamente positiva, destacando tanto el éxito en la fase de floración avanzada 
+                               como en el proceso de cosecha en curso. Las plantas de cannabis mostraron una densidad de cogollos excepcional, 
+                               con un alto contenido de terpenos y tricomas bien desarrollados​​.<br /><br />
+
+                               Tras la cosecha, las plantas fueron trasladadas a nuestras instalaciones de procesamiento, donde se sometieron a 
+                               un secado controlado para preservar las propiedades organolépticas del producto. El proceso de trimming o manicura 
+                               se realizó tanto en seco como en verde, utilizando maquinaria de última generación para asegurar una apariencia 
+                               uniforme y un acabado de alta calidad​​, conforme los estándares internacionales requeridos en el mercado al cual exportamos.<br />
+                            </div>
+                            <b class="h4 h3-green">PROYECCIONES:</b>
+                            <div class="textos mb-3">
+                             En el presente informe se destaca el éxito de nuestras prácticas de cultivo y cosecha, que han dado como resultado un producto de 
+                             alta calidad destinado a los mercados internacionales. CryptoCampo continúa dedicado a la excelencia y la mejora continua, 
+                             asegurando que cada campaña no solo cumpla, sino que supere las expectativas de calidad y rendimiento.<br />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 d-flex flex-column">
+                            <img class="my-3 rounded" src="../assets/img/campaign2-phase4-1.jpg" />
+                            <img class="mb-3 rounded" src="../assets/img/campaign2-phase4-2.jpg" />
+                            <button type="button"
+                              class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
+                                icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+          </div>
         </div>
       </div>
       <ClaimFollowCampaign2 />
