@@ -238,7 +238,7 @@
                                Durante el mes de abril vamos a seguir cosechando de forma escalonada, respetanto los tiempos de la planta, cuidando y controlando la humedad a 
                                fin de obtener producto de alta calidad para exportar al mundo.<br /><br />
                                <b>En CryptoCampo, seguimos dedicados a optimizar cada una de las etapas, con el fin de asegurar la excelencia y el liderazgo en la industria del 
-                               cannabis de alta calidad.</b>><br />
+                               cannabis de alta calidad.</b><br />
                             </div>
                           </div>
                           <div class="col-12 col-sm-5 d-flex flex-column">
@@ -313,6 +313,78 @@
                           <div class="col-12 col-sm-5 d-flex flex-column">
                             <img class="my-3 rounded" src="../assets/img/campaign2-phase4-1.jpg" />
                             <img class="mb-3 rounded" src="../assets/img/campaign2-phase4-2.jpg" />
+                            <button type="button"
+                              class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
+                                icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading-1">
+              <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                FASE 5 (JULIO - OCTUBRE 2024)
+              </button>
+            </h2>
+            <div id="collapse-5" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-5">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <div class="textos mb-3">
+                              Durante el mes de julio completamos el ciclo de cultivo y preparado del producto 
+                              final para el mercado internacional. Las principales actividades se han centrado 
+                              en los procesos de post-cosecha, incluyendo el secado, trimming, y curado de las 
+                              flores de Cannabis medicinal-CBD.<br /><br />
+                              A continuación, se detallan los aspectos más destacados de este periodo:<br />
+                            </div>
+                            <b class="h4 h3-green">FINALIZACIÓN DE LA COSECHA:</b><br />
+                            <div class="textos mb-3">
+                              <ul>
+                              <li><b>Ubicaciones:</b> La cosecha se llevó a cabo principalmente en los campos en Uruguay.</li><br /><br />
+
+                              <li><b>Variedades Cosechadas:</b> Las genéticas cosechadas incluyen, entre otras variedades, <b>Ultra Pink, Fenocheese, 
+                                Fedtonic</b>, todas seleccionadas por su alta calidad y resistencia​​​​​​.</li><br /><br />
+
+                              <li><b>Proceso de Cosecha:</b> Implementamos una estrategia de cosecha escalonada y seccionada, permitiendo que 
+                                cada planta alcance su punto óptimo de maduración​​.</li><br />
+                              </ul>
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">PROCESAMIENTO POST-COSECHA:</b> <br/>
+                              <ul>
+                              <li><b>Secado:</b> Las flores fueron sometidas a un secado controlado en cámaras especiales para preservar sus propiedades 
+                               organolépticas. Este proceso se llevó a cabo en instalaciones propias de uno de nuestros principales productores, 
+                               garantizando así la calidad y seguridad del producto​​​​.</li><br/><br />
+
+                              <li><b>Trimming:</b> Se realizó tanto en seco como en verde, utilizando maquinaria de última generación para asegurar un acabado 
+                              uniforme y de alta calidad​​.</li><br/><br />
+
+                              <li><b>Curado:</b> Las flores fueron curadas en condiciones óptimas para maximizar la preservación de terpenos y cannabinoides​​​​.</li><br /><br />
+                              </ul>
+                            </div>
+                            <div class="textos mb-3">
+                              <b class="h4 h3-green">PREPARACIÓN PARA LA EXPORTACIÓN:</b> <br/>
+                              <ul>
+                               <li><b>Destino de Exportación:</b> Nuestra producción está dirigida principalmente al mercado estadounidense, donde previamente hemos 
+                               establecido relaciones comerciales exitosas​​ en el año 2023. Asimismo, también buscamos establecer relaciones comerciales con 
+                               otros países de la Unión Europea, ello con el fin de obtener el precio de venta más alto para cada genética.</li><br /><br />
+
+                               <li><b>Logística y Distribución:</b> Las flores empaquetadas y curadas están listas para ser enviadas a los Estados Unidos, cumpliendo con todos 
+                               los estándares internacionales de calidad y seguridad​​​​.</li><br /><br />
+                              </ul>
+                            </div>
+                            <b class="h4 h3-green">PROYECCIONES:</b>
+                            <div class="textos mb-3">
+                             El mercado de cannabis en EE. UU. sigue en expansión, con un aumento en la demanda de productos de CBD de alta calidad. Se espera que nuestra 
+                             participación en este mercado continúe creciendo, fortaleciendo nuestra posición como líder en exportación de cannabis​​.
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 d-flex flex-column">
+                            <img class="my-3 rounded" src="../assets/img/campaign2-phase5-1.jpg" />
+                            <img class="mb-3 rounded" src="../assets/img/campaign2-phase5-2.jpg" />
                             <button type="button"
                               class="btn w-100 p-3 fw-bold see-video button-disabled"><font-awesome-icon
                                 icon="fa-solid fa-video" class="me-3" />VER VIDEO</button>
