@@ -393,6 +393,112 @@
                       </div>
                     </div>
           </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading-1">
+              <button class="accordion-button collapsed accordion-question" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                ULTIMA FASE (NOVIEMBRE 2024)
+              </button>
+            </h2>
+            <div id="collapse-6" class="accordion-collapse collapse accordion-bg" aria-labelledby="heading-1"
+                      data-bs-parent="#step-6">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 col-sm-6 m-3">
+                            <b class="h4 h3-green">VENTA DE LA PRODUCCIÓN DE CANNABIS DE CBD DE LA CAMPAÑA 2.0:</b><br /><br />
+                            <div class="textos mb-3">
+                              ✅Total de flores de CBD producidas a favor de CryptoCampo (Hydra Chain LLC) con fines de exportación 
+                              en representación de la plataforma: 3458 kilogramos.<br/><br/>
+
+                              ✅País donde se exportó: Estados Unidos
+                              - Exportación y Liquidación realizada vía flete aéreo a Denver, estado de Colorado, Estados Unidos.<br/>
+
+                              - Destino final: En septiembre se envió el total de la mercadería (flores secas de CBD) a Miami, estado de 
+                              Florida, donde se encuentra el domicilio del comprador.<br/>
+
+                              - Precio final por kilogramo (libre de gastos y comisiones): USD 172,39 kg.<br/><br/>
+
+                              ✅El destino inicial del flete aéreo vía Montevideo (Uruguay) a Denver (Estados Unidos) se debió a que allí se 
+                              encuentra el depósito de nuestro principal vendedor en dicho país, quien está a cargo de la promoción y venta de 
+                              CBD (hemp) de las empresas CryptoCampo y Cannbio Agro SAS.<br /><br/>
+
+                              <b class="h4 h3-green">GANANCIA TOTAL POR VENTA DE CBD CAMPAÑA 2.0:</b> <b> $596.150 (libre de gastos y comisiones)</b><br/><br/>
+
+                              <b class="h4 h3">RENTABILIDAD TOTAL OBTENIDA: 19,23%</b><br/><br/>
+                              <b class="h4 h3">RENTABILIDAD PARA EL INVERSOR: 10%</b><br/><br/>
+
+                              📊 <b>Por qué la Rentabilidad del inversor es 10%:</b><br/>
+                                    Conforme el Whitepaper de la presente Campaña 2.0 (link de acceso https://cryptocampo.app/#/whitepaper), una vez finalizada 
+                                    la misma, la rentabilidad final se divide en partes iguales entre el usuario y la plataforma de CryptoCampo.<br/><br/>
+                                    Cuando adquiriste el NFT, no se cobró comisión alguna e informamos que nos comprometíamos a realizar la mejor producción 
+                                    posible para que ambos podamos obtener la más alta rentabilidad de la Campaña.<br/><br/> 
+
+                              ✅ <b>Documentación a disposición del holder de NFT de la Campaña 2.0:</b><br/><br/>
+                                  - Liquidación por venta de Cannabis de CBD por cuenta y orden de Hydra Chain LLC (CRYPTOCAMPO).<br/><br/>
+                                  - Comprobante de Bill of lading (conocimiento de embarque) del depósito de la ciudad de Denver (Colorado) al comprador 
+                                  final en Miami (Florida).<br/><br/>
+
+                                  <b>*La información que se encuentra testada en los presentes documentos es confidencial y no nos encontramos autorizados por 
+                                  las empresas intervinientes a su divulgación.</b><br/><br/> 
+                            </div>     
+                        </div>
+                      </div>
+                    </div>
+            </div>
+          </div>
+          <div class="accordion accordion-flush mt-3 mb-5" id="step-7-2">
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-heading-7-2">
+                      <button class="accordion-button accordion-question" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapse-7-2" aria-expanded="true" aria-controls="collapse-7-2">
+                        INFORMACIÓN TÉCNICA PARA EL CLAIM
+                      </button>
+                    </h2>
+                    <div id="collapse-7-2" class="accordion-collapse accordion-bg" aria-labelledby="heading-7-2"
+                      data-bs-parent="#step-7-2">
+                      <div class="accordion-body">
+                        <div class="row container-preparation-stage">
+                          <div class="col-12 p-3">
+                            <div class="textos mb-3">
+                              <ul>
+                                <li>Antes de realizar el claim, es importante que leas la siguiente información técnica:</li>
+                              
+                                <li>La rentabilidad obtenida de la Campaña 2.0 se pagará en la stablecoin USDT (técnicamente se denomina BSC-USD*).</li>
+                              </ul>
+                            </div> <br />
+                            <ul class="h4 h3-green" style="padding-left: 16px;">
+                              <li>
+                                A SABER:<br />
+                              </li>
+                            </ul><br />
+                            <div class="textos mb-3">
+                              - Se mantiene la red blockchain BEP20 (Binance smart chain). <br /><br />
+
+                              - Recibirás la ganancia en stablecoin USDT, al estar sobre la red BEP20, 
+                              el token se llama BSC-USD y mantiene la paridad con el dólar 1:1. <br /><br />
+
+                              - Si vas a claimear ingresando con tu MetaMask, es importante que agregues 
+                              el token a tu wallet. Y tengas gas para efectuar la transacción (BNB tenes que tener, 
+                              al igual que cuando compraste el NFT). <br /><br />
+
+                              - Te dejamos el contrato de la stablecoin a utilizar para que puedas agregar el token
+                              0x55d398326f99059fF775485246999027B3197955<br /><br />
+                            </div>
+                            <ul class="h4 h3-green" style="padding-left: 16px;">
+                              <li>
+                                MUY IMPORTANTE:<br />
+                              </li>
+                            </ul><br />
+                            <div class="h3">
+                              Recuerda claimear desde la Cuenta donde compraste el NFT.
+                            </div>
+                            <br />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
         </div>
       </div>
       <ClaimFollowCampaign2 />
