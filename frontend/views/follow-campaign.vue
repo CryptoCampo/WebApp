@@ -441,6 +441,14 @@
                                   <b>*La información que se encuentra testada en los presentes documentos es confidencial y no nos encontramos autorizados por 
                                   las empresas intervinientes a su divulgación.</b><br/><br/> 
                             </div>     
+                            <div class="d-flex mt-4">
+                              <div class="mb-3 w-50">
+                                <iframe ref="pdfViewer3" width="100%" height="728" frameborder="0"></iframe>
+                              </div>
+                              <div class="w-50">
+                                <iframe ref="pdfViewer4" width="100%" height="728" frameborder="0"></iframe>
+                              </div>
+                            </div>
                         </div>
                       </div>
                     </div>
@@ -1288,6 +1296,14 @@ export default {
     const iframe2 = this.$refs.pdfViewer2;
     const pdfURL2 = require('url:../assets/pdf/DOC_CANNBIO_CC.pdf');
     iframe2.src = pdfURL2 + '#toolbar=0';
+
+    const iframe3 = this.$refs.pdfViewer2;
+    const pdfURL3 = require('url:../assets/pdf/Camp2/DOC_CRYPTOCAMPO_BOL59607928.pdf');
+    iframe3.src = pdfURL3 + '#toolbar=0';
+
+    const iframe4 = this.$refs.pdfViewer4;
+    const pdfURL4 = require('url:../assets/pdf/Camp2/LIQUIDACIÓN_CAMP2.pdf');
+    iframe4.src = pdfURL4 + '#toolbar=0';
   },
   methods: {
     ...mapActions(useCollectable, ['claim', 'getBalance']),
