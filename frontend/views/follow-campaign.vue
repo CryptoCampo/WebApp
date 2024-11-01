@@ -1297,7 +1297,7 @@ export default {
     const pdfURL2 = require('url:../assets/pdf/DOC_CANNBIO_CC.pdf');
     iframe2.src = pdfURL2 + '#toolbar=0';
 
-    const iframe3 = this.$refs.pdfViewer2;
+    const iframe3 = this.$refs.pdfViewer3;
     const pdfURL3 = require('url:../assets/pdf/Camp2/DOC_CRYPTOCAMPO.pdf');
     iframe3.src = pdfURL3 + '#toolbar=0';
 
