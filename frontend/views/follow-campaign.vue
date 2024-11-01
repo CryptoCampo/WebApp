@@ -441,7 +441,9 @@
                                   <b>*La información que se encuentra testada en los presentes documentos es confidencial y no nos encontramos autorizados por 
                                   las empresas intervinientes a su divulgación.</b><br/><br/> 
                             </div>     
-                            <div class="d-flex mt-4">
+                          
+                        </div>
+                          <div class="d-flex mt-4">
                               <div class="mb-3 w-50">
                                 <iframe ref="pdfViewer3" width="100%" height="728" frameborder="0"></iframe>
                               </div>
@@ -449,7 +451,6 @@
                                 <iframe ref="pdfViewer4" width="100%" height="728" frameborder="0"></iframe>
                               </div>
                             </div>
-                        </div>
                       </div>
                     </div>
             </div>
